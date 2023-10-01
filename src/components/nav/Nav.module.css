@@ -1,0 +1,36 @@
+.nav {
+  grid-area: n;
+  background-color: #3f87a6;
+  padding: 10px;
+}
+.navi{
+  padding-top: 5px;
+  font-size: 0.5rem;
+  display: flex;
+  flex-direction: row;
+  justify-content: left;
+}
+.friends a{
+  background-color: #3f87a6;
+  
+  color: rgb(228, 237, 244);
+  text-decoration: none;
+}
+.friends {
+  margin-top: 1rem;
+}
+.img {
+  margin-right: 5px;
+  width: 25px;
+  height:25px;
+  border-radius: 50%;
+}
+.item a {
+  margin-top: 10px;
+  color: rgb(228, 237, 244);
+  text-decoration: none;
+}
+
+.item a.activeLink {
+  color: rgb(183, 0, 27);
+}

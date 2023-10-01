@@ -1,0 +1,14 @@
+.avatar {
+  width: 80px;
+  margin-top: 5px;
+}
+
+.profile {
+  height: 150px;
+}
+
+.profile ul {
+  margin-left: 80px;
+  margin-top: -85px;
+  list-style: none;
+}
